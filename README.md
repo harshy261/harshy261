@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Yadav</h1>
 <h3 align="center">🙌 Full Stack Developer || Problem Solver 🙌</h3>
-<img align="center" alt="Coding" width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshy261&label=Profile%20views&color=0e75b6&style=flat" alt="harshy261" /> </p>
